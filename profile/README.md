@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the <a href="https://wreck.lol/">Wreck.lol</a> FGitHub Account!</h1><br>
+<h1 align="center">Welcome to the <a href="https://wreck.lol/">Wreck.lol</a> GitHub Account!</h1><br>
 
 <p align="center">
   Wreck.lol is a premium script suite for benefiting user statistics.
